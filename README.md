@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=phasmid1&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/phasmid1/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phasmid1&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=phasmid1&theme=dracula)
+
+
+
 
 <!--
 **phasmid1/phasmid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

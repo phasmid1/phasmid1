@@ -1,24 +1,25 @@
-### Hi there 👋
+#### Augenstern-creator
+<h1 align="center">
+  <a href="https://www.qindalin.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm phasmid;&center=true&size=27">
+  </a>
+</h1>
+<h3 align="center">A struggling developer from China</h3>
+<br>
+<br>
+<!-- 统计卡片start -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=phasmid1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
+<!-- 统计卡片end -->
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=phasmid1&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/phasmid1/count.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phasmid1&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=phasmid1&theme=dracula)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=phasmid1&theme=dracula&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
-
-
-<!--
-**phasmid1/phasmid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

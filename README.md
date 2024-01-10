@@ -1,4 +1,4 @@
-#### Augenstern-creator
+#### phasmid1
 <h1 align="center">
   <a href="https://www.qindalin.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm phasmid;&center=true&size=27">
@@ -14,12 +14,9 @@
 <!-- 统计卡片end -->
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=phasmid1&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=phasmid1&theme=xcode" />
+</div>
+
 
 
